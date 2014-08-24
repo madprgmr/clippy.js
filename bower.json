@@ -1,6 +1,10 @@
 {
   "name": "clippy.js",
   "version": "0.0.1",
+  "main": [
+    "build/clippy.js",
+    "build/clippy.css"
+  ],
   "homepage": "https://www.smore.com/clippy-js",
   "authors": [
     "Allen Bargi <allen.bargi@gmail.com>",
